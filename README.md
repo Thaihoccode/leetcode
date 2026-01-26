@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thaihoccode/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Thaihoccode/leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Thaihoccode/leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Thaihoccode/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Thaihoccode/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Thaihoccode/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
